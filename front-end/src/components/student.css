@@ -1,0 +1,30 @@
+.main-container {
+  background: linear-gradient(to bottom right, #ffffff, #f0f0f0);
+}
+.student-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  /* Gradient background */
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.button-group {
+  margin-top: 20px;
+}
+
+.table {
+  margin-top: 20px;
+  background-color: #f2f2f2;
+}
+
+.btn {
+  margin-right: 5px;
+}
